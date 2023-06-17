@@ -1,0 +1,31 @@
+body{
+    color:#ccc;
+    background-color:rgb(17, 17, 17);
+}
+
+.laia-titl-ex{
+    width:100%;
+    display:flex;
+    border-bottom: cyan;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.laia-background{
+    width: 66%;
+    position: absolute;
+    top:50%;
+    left:25%;
+    background-color: #223453;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#fff;
+    font-size:3.5em;
+    display:inline-flex;
+    padding: 15px;
+    border-radius: .2em;
+
+}
+
+.laia-button{
+    position:relative;
+}
